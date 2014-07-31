@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "googleapis": "^0.7.0",
-    "soap": "git://github.com/jnikles/node-google-dfp.git"
+    "soap": "git://github.com/jnikles/node-soap.git"
   },
   "devDependencies": {
     "googleapis": "^0.7.0",
